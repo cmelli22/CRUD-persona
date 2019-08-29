@@ -1,0 +1,16 @@
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\bin\Debug\CRUD_Persona.exe.config
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\bin\Debug\CRUD_Persona.exe
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\bin\Debug\CRUD_Persona.pdb
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\bin\Debug\EntityFramework.dll
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\bin\Debug\EntityFramework.xml
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\obj\Debug\CRUD_Persona.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\obj\Debug\CRUD_Persona.Form1.resources
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\obj\Debug\CRUD_Persona.Properties.Resources.resources
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\obj\Debug\CRUD_Persona.VIsta.FrmTabla.resources
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\obj\Debug\CRUD_Persona.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\obj\Debug\CRUD_Persona.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\obj\Debug\CRUD_Persona.csproj.CopyComplete
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\obj\Debug\CRUD_Persona.exe
+C:\Users\crist\source\repos\CRUD_Persona\CRUD_Persona\obj\Debug\CRUD_Persona.pdb
